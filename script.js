@@ -4,7 +4,8 @@ var product = [{
     name: 'Concrete Saws',
     price: 7000,
     description: 'เครื่องตัดคอนกรีต จะตัดวัสดุได้สองวิธี วิธีเปียกและแห้ง ความแตกต่างระหว่างสองอย่างนี้คือการใช้น้ำแบบเปียก เพื่อป้องกันไม่ให้ใบเลื่อยร้อนเกินไปขณะตัด ใบเลื่อยกลมหมุนรอบแกนนอนด้วยความเร็ว 1200 RPM ขึ้นไป เมื่อใช้อุปกรณ์นี้ การกำจัดอนุภาคฝุ่นจะลดลงระหว่างขั้นตอนการตัด จึงทำให้งานเสร็จภายในระยะเวลาอันสั้น การทำงานที่ไร้แรงเสียดทาน จะช่วยปรับแต่งผิวสำเร็จของวัสดุที่ตัด ด้วยความแม่นยำสูงสุด',
-    type: 'Saws'
+    type: 'Saws',
+    href: 'https://www.instagram.com/real.dekgotostar'
 }, {
     id: 2,
     img: 'https://assets.leevalley.com/Size4/10108/13T0121-21-inch-buck-saw-f-0404.jpg',
@@ -18,49 +19,56 @@ var product = [{
     name: 'Bosch GBH 2-26 DE',
     price: 45000,
     description: 'Bosch รุ่น GBH 2-26 DE คือ สว่านโรตารี่สำหรับเจาะกระแทกคอนกรีตโดยเฉพาะ เหมาะกับงานฝ้าเพดาน, ฝาผนัง และพื้น กำลังไฟ 800 วัตต์ ความเร็ว 0 – 900 รอบ/นาที อัตรากระแทก 0 – 4,000 ครั้ง/นาที แรงกระแทก 3 จูล มีอัตราการเจาะเหนือกว่าสว่านกระแทกทั่วไป อีกทั้งยังมาพร้อมระบบหยุดกระแทกเพื่อนำไปเจาะไม้และเหล็กกล้า และระบบสกัด ที่ปรับดอกสว่านให้หยุดหมุนเพื่อนำไปกระเทาะวัสดุต่าง ๆ เช่น พื้น, ผนังคอนกรีต และ ปูนฉาบเรียบ มีความแข็งแรงทนทาน ได้คุณภาพ ตามมาตรฐาน Bosch',
-    type: 'Drills'
+    type: 'Drills',
+    link: 'https://www.instagram.com/real.dekgotostar'
 },{
     id: 4,
     img: 'https://assets.central.co.th//adobe/dynamicmedia/deliver/dm-aid--bf7a3a0d-cc44-47fb-b7c2-b1410a22735b/milwaukee-m12fddxkit-0xinstallationdrilldriverwith20ahbatteryandchargerred-black-mkp1425241-2.jpg?preferwebp=true&quality=60&width=550',
     name: 'Milwaukee M12 FDDXKIT-0X',
     price: 2300,
     description: 'สว่านพร้อมหัวเจาะ 4 แบบ ขนาดกะทัดรัดประสิทธิภาพสูง เพื่อความเหมาะสมกับการทำงานที่แตกต่างกัน ระบบหัวจับดอกสว่านแบบถอดออกได้ที่มีหัวที่แตกต่างกัน 4 หัวสำหรับการใช้งานที่หลากหลายเพิ่มความคล่องตัวในการทำงานสว่านไขควงหัวหกเหลี่ยมขนาด 1/4″ ลดความยาวตัวเครื่องเหลือเพียง 130 มม. ใช้งานในที่แคบได้สะดวก มีแถบแม่เหล็กด้านหน้า เพื่อใช้ดูดติดกับดอกสว่านได้อย่างง่าย ชุดแบตเตอรี่ REDLITHIUM™-ION มีโครงสร้างชุดแบตเตอรี่และชิ้นส่วนอิเล็กทรอนิกส์ที่ยอดเยี่ยม และให้การทำงานโดยที่กำลังไม่ตก เพื่อให้ระยะเวลาใช้งานที่นานขึ้นตลอดอายุการใช้งานของชุดแบตเตอรี่',
-    type: 'Drills'
+    type: 'Drills',
+    link: 'https://www.instagram.com/real.dekgotostar'
 },{
     id: 5,
     img: 'https://th.bing.com/th/id/OIP.SddEKjWSJnGqdNLek6o5ZwHaHa?rs=1&pid=ImgDetMain',
     name: 'Knipex VDE 200mm',
     price: 1600,
     description: '(Snipe nose pliers straight 1000VDE 200mm) ปลายยืดหยุ่น: รูปร่างมั่นคงแม้ว่าจะถูกบิดปลายที่ทนการบิดที่ยืดหยุ่นอย่างแม่นยำ ก้ามหนีบครี่งวงกลม ยาว แหลมมาพร้อมกับขอบตัดสำหรับสายไฟหรือลวดชนิดอ่อน, แข็งปานกลางและแข็ง',
-    type: 'Snipenose'
+    type: 'Snipenose',
+    link: 'https://www.instagram.com/real.dekgotostar'
 },{
     id: 6,
     img: 'https://th.bing.com/th/id/OIP.oM4zO9IQ8a8bYoUaNYQnLgHaHa?rs=1&pid=ImgDetMain',
     name: 'GCO 230',
     price: 5000,
     description: 'ทำการตัดได้รวดเร็วและราบรื่นยิ่งขึ้นด้วยมอเตอร์ 2,300 วัตต์แบบใหม่ ช่วยให้คุณทำงานอย่างปลอดภัยด้วยฝาครอบป้องกันสะเก็ดแบบปรับได้ รองรับการทำงานเกินกำลังได้สูงยิ่งขึ้นเพื่อประสิทธิภาพในการทำงานเกินกำลังถึงขีดสุด เพิ่มประสิทธิภาพในการปกป้องด้วยฝาครอบป้องกันสะเก็ดแบบปรับได้ พกพาและใช้งานได้ง่ายด้วยมือจับที่ออกแบบตามหลักสรีรศาสตร์ซึ่งใช้งานได้ทั้งผู้ที่ถนัดมือซ้ายและมือขวา ฐานรองตัดโลหะป้องกันการละลายขณะตัด',
-    type: 'Saws'
+    type: 'Saws',
+    link: 'https://www.instagram.com/real.dekgotostar'
 },{
     id: 8,
     img: 'https://somboonkl.co.th/data/media/2021/03/2401501999005.jpg',
     name: 'Claw Hammer',
     price: 1600,
     description: 'ด้ามหยาบ กันลื่น กระชับมือ ดูดซับเหงื่อได้ดีหัวค้อนใช้เหล็กเกรดพิเศษ มีความแข็งแรงทนทานน้ำหนักเบา ช่วยลดแรงขณะใช้งานสามารถใช้ถอนตะปูได้โดยไม่ทำให้ตัวตะปูเสียหายหรือบิดเบี้ยว',
-    type: 'ClawHammer'
+    type: 'ClawHammer',
+    link: 'https://www.instagram.com/real.dekgotostar'
 },{
     id: 9,
     img: 'https://www.skilthailand.com/wp-content/uploads/2022/12/TS6307SE00-18.png',
     name: 'TABLE SAW',
     price: 500,
     description: 'โต๊ะเลื่อยวงเดือน กำลังไฟ 2,000 วัตต์ ขนาด 10 นิ้วความแม่นยำที่เหนือชั้น เพื่อการตัดที่ที่รวดเร็ว ราบรื่นอย่างมีประสิทธิภาพ ขาตั้งแบบพับได้ในตัวเพื่อการพกพาสะดวกและจัดเก็บง่ายในชุดประกอบด้วย : SKIL โต๊ะเลื่อยวงเดือน กำลังไฟ 2,000 วัตต์ ขนาด 10 นิ้ว',
-    type: 'Saws'
+    type: 'Saws',
+    link: 'https://www.instagram.com/real.dekgotostar'
 },{
     id: 10,
     img: 'https://content.misumi-ec.com/image/upload/f_webp,q_auto,t_product_main/v1/p/jp/product/series/223000769986/223000769986_001.jpg?$product_main$',
     name: 'MCC CORPORATION',
     price: 350,
     description: 'ทำการตัดได้รวดเร็วและราบรื่นยิ่งขึ้นด้วยมอเตอร์ 2,300 วัตต์แบบใหม่ ช่วยให้คุณทำงานอย่างปลอดภัยด้วยฝาครอบป้องกันสะเก็ดแบบปรับได้ รองรับการทำงานเกินกำลังได้สูงยิ่งขึ้นเพื่อประสิทธิภาพในการทำงานเกินกำลังถึงขีดสุด เพิ่มประสิทธิภาพในการปกป้องด้วยฝาครอบป้องกันสะเก็ดแบบปรับได้ พกพาและใช้งานได้ง่ายด้วยมือจับที่ออกแบบตามหลักสรีรศาสตร์ซึ่งใช้งานได้ทั้งผู้ที่ถนัดมือซ้ายและมือขวา ฐานรองตัดโลหะป้องกันการละลายขณะตัด',
-    type: 'Sliding wrench'
+    type: 'Sliding wrench',
+    link: 'https://www.instagram.com/real.dekgotostar'
 }];
 
 
@@ -71,6 +79,7 @@ $(document).ready(() => {
                     <img class="product-img" src="${product[i].img}" alt="">
                     <p style="font-size: 1.2vw;">${product[i].name}</p>
                     <p stlye="font-size: 1vw;">${ numberWithCommas(product[i].price) } THB</p>
+                    
                 </div>`;
     }
     $("#productlist").html(html);
@@ -97,6 +106,7 @@ function searchsomething(elem) {
                     <img class="product-img" src="${product[i].img}" alt="">
                     <p style="font-size: 1.2vw;">${product[i].name}</p>
                     <p stlye="font-size: 1vw;">${ numberWithCommas(product[i].price) } THB</p>
+                    <a id="addtoshop" href="${product[i].link}" class="btn btn-buy" >shop</a>
                 </div>`;
         }
     }
@@ -241,4 +251,25 @@ function deinitems(action, index) {
         $("#countitems"+index).text(cart[index].count)
         rendercart();
     }
+}
+// เพิ่ม fuction การคำนวณซื้อ
+function buy() {
+    let totalPrice = 0;
+    cart.forEach(item => {
+        totalPrice += item.price * item.count;
+    });
+
+    // ปรับแต่งคำพูดเอา
+    Swal.fire({
+        icon: 'success',
+        title: 'Purchase Successful!',
+        text: 'Total Price: ' + totalPrice + ' THB'
+    });
+
+    cart = []; // Clear cart after purchase
+    document.getElementById('cartcount').textContent = '0'; // Reset cart count
+    closeModal();
+}
+function addtoshop() {
+    link
 }
